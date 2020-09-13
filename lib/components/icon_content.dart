@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import '.././constants.dart';
 
 class iconCardWidget extends StatelessWidget {
   const iconCardWidget({Key key, this.icon, this.text}) : super(key: key);

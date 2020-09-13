@@ -14,3 +14,21 @@ const kNumberTextStyle = TextStyle(
   fontSize: 50,
   fontWeight: FontWeight.w900,
 );
+
+const kLargeButtonTextStyle = TextStyle(
+  fontSize: 25,
+  // fontWeight: FontWeight.bold,
+);
+
+const pageLabelTextStyle = TextStyle(
+  fontWeight: FontWeight.bold,
+  fontSize: 30,
+);
+
+const resultTextStyle =
+    TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: Colors.green);
+
+const resultNumberStyle =
+    TextStyle(fontSize: 70, fontWeight: FontWeight.bold, color: Colors.white);
+
+const bottomTextStyle = TextStyle(fontSize: 20, color: Colors.white);
